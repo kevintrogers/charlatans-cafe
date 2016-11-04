@@ -1,0 +1,1 @@
+<h2 class="mprm-item-title"><?php the_title() ?></h2>
